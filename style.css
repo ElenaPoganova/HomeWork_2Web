@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(238, 131, 8, 0.733);
+}
+h1{
+    color:rgba(139, 0, 0, 0.945);
+}
+a{
+    color:chartreuse;
+}
+h2{
+    color:orangered;
+}
+img{
+    width: 300px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+a:hover{
+    color:navy;
+}
+img{
+    border: solid green 5px;
+}
+.block{
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
